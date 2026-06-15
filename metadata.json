@@ -1,0 +1,6 @@
+{
+  "name": "EduVerse AI",
+  "description": "Futuristic, premium AI-powered educational e-commerce platform where learning meets smart shopping. Designed for students, schools, colleges, and universities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
